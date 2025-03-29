@@ -1,0 +1,16 @@
+{
+  "name": "com.konsnos.simplesafearea",
+  "version": "1.0.0",
+  "displayName": "Simple Safe Area",
+  "description": "A simple way to handle safe areas",
+  "unity": "6000.0",
+  "unityRelease": "42f1",
+  "keywords": [
+    "UI"
+  ],
+  "author": {
+    "name": "Konstantinos Egkarchos",
+    "email": "konsnosl@gmail.com",
+    "url": "https://github.com/konsnos"
+  }
+}
